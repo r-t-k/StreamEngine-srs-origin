@@ -1,5 +1,5 @@
 StreamEngine Origin
-1) apt-get update && upgrade
+1) apt-get update & apt-get upgrade
 2) apt install docker.io
 3) build directories under root (will change), conf/custom.conf 
 4) `listen              1935;
